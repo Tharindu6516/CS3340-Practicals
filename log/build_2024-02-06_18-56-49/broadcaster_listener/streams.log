@@ -1,0 +1,41 @@
+[0.524s] Invoking command in '/home/tharindu/robotics/src/broadcaster_listener': PYTHONPATH=/home/tharindu/robotics/build/broadcaster_listener/prefix_override:/home/tharindu/robotics/install/broadcaster_listener/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/broadcaster_listener build --build-base /home/tharindu/robotics/build/broadcaster_listener/build install --record /home/tharindu/robotics/build/broadcaster_listener/install.log --single-version-externally-managed
+[0.686s] running egg_info
+[0.687s] creating ../../build/broadcaster_listener/broadcaster_listener.egg-info
+[0.687s] writing ../../build/broadcaster_listener/broadcaster_listener.egg-info/PKG-INFO
+[0.687s] writing dependency_links to ../../build/broadcaster_listener/broadcaster_listener.egg-info/dependency_links.txt
+[0.687s] writing entry points to ../../build/broadcaster_listener/broadcaster_listener.egg-info/entry_points.txt
+[0.687s] writing requirements to ../../build/broadcaster_listener/broadcaster_listener.egg-info/requires.txt
+[0.687s] writing top-level names to ../../build/broadcaster_listener/broadcaster_listener.egg-info/top_level.txt
+[0.688s] writing manifest file '../../build/broadcaster_listener/broadcaster_listener.egg-info/SOURCES.txt'
+[0.689s] reading manifest file '../../build/broadcaster_listener/broadcaster_listener.egg-info/SOURCES.txt'
+[0.689s] adding license file 'LICENSE'
+[0.689s] writing manifest file '../../build/broadcaster_listener/broadcaster_listener.egg-info/SOURCES.txt'
+[0.689s] running build
+[0.690s] running build_py
+[0.690s] creating /home/tharindu/robotics/build/broadcaster_listener/build
+[0.690s] creating /home/tharindu/robotics/build/broadcaster_listener/build/lib
+[0.690s] creating /home/tharindu/robotics/build/broadcaster_listener/build/lib/broadcaster_listener
+[0.690s] copying broadcaster_listener/turtle_tf2_broadcaster.py -> /home/tharindu/robotics/build/broadcaster_listener/build/lib/broadcaster_listener
+[0.690s] copying broadcaster_listener/__init__.py -> /home/tharindu/robotics/build/broadcaster_listener/build/lib/broadcaster_listener
+[0.690s] running install
+[0.698s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.698s]   warnings.warn(
+[0.699s] running install_lib
+[0.700s] creating /home/tharindu/robotics/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener
+[0.700s] copying /home/tharindu/robotics/build/broadcaster_listener/build/lib/broadcaster_listener/turtle_tf2_broadcaster.py -> /home/tharindu/robotics/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener
+[0.700s] copying /home/tharindu/robotics/build/broadcaster_listener/build/lib/broadcaster_listener/__init__.py -> /home/tharindu/robotics/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener
+[0.701s] byte-compiling /home/tharindu/robotics/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener/turtle_tf2_broadcaster.py to turtle_tf2_broadcaster.cpython-310.pyc
+[0.702s] byte-compiling /home/tharindu/robotics/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener/__init__.py to __init__.cpython-310.pyc
+[0.703s] running install_data
+[0.703s] creating /home/tharindu/robotics/install/broadcaster_listener/share/broadcaster_listener/launch
+[0.704s] creating /home/tharindu/robotics/install/broadcaster_listener/share/ament_index
+[0.704s] creating /home/tharindu/robotics/install/broadcaster_listener/share/ament_index/resource_index
+[0.704s] creating /home/tharindu/robotics/install/broadcaster_listener/share/ament_index/resource_index/packages
+[0.704s] copying resource/broadcaster_listener -> /home/tharindu/robotics/install/broadcaster_listener/share/ament_index/resource_index/packages
+[0.704s] copying package.xml -> /home/tharindu/robotics/install/broadcaster_listener/share/broadcaster_listener
+[0.704s] running install_egg_info
+[0.706s] Copying ../../build/broadcaster_listener/broadcaster_listener.egg-info to /home/tharindu/robotics/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener-0.0.0-py3.10.egg-info
+[0.707s] running install_scripts
+[0.729s] Installing turtle_tf2_broadcaster script to /home/tharindu/robotics/install/broadcaster_listener/lib/broadcaster_listener
+[0.729s] writing list of installed files to '/home/tharindu/robotics/build/broadcaster_listener/install.log'
+[0.748s] Invoked command in '/home/tharindu/robotics/src/broadcaster_listener' returned '0': PYTHONPATH=/home/tharindu/robotics/build/broadcaster_listener/prefix_override:/home/tharindu/robotics/install/broadcaster_listener/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/broadcaster_listener build --build-base /home/tharindu/robotics/build/broadcaster_listener/build install --record /home/tharindu/robotics/build/broadcaster_listener/install.log --single-version-externally-managed
